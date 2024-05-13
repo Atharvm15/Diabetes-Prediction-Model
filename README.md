@@ -1,7 +1,7 @@
 ## Documentation
 
 ### Introduction:
-The Diabetes Prediction Mosssdel project aims to develop an accurate and reliable machine learning model to predict the likelihood of an individual developing diabetes based on certain health indicators. Diabetes is a prevalent chronic condition worldwide, and early detection plays a crucial role in managing and preventing its complications. By leveraging machine learning techniques, this project seeks to provide a valuable tool for healthcare professionals in identifying individuals at risk of diabetes and initiating timely interventions.
+The Diabetes Prediction Mosdel project aims to develop an accurate and reliable machine learning model to predict the likelihood of an individual developing diabetes based on certain health indicators. Diabetes is a prevalent chronic condition worldwide, and early detection plays a crucial role in managing and preventing its complications. By leveraging machine learning techniques, this project seeks to provide a valuable tool for healthcare professionals in identifying individuals at risk of diabetes and initiating timely interventions.
 
 ### Project Objective:
 The primary objective of the Diabetes Prediction Model project is to build a robust predictive model capable of accurately classifying individuals into diabetic and non-diabetic categories based on their health parameters. The model will utilize a dataset consisting of various health attributes such as glucose levels, blood pressure, BMI, age, etc., to make predictions. Through extensive data preprocessing, feature engineering, model training, and evaluation, the project aims to achieve high accuracy and performance in diabetes prediction.
